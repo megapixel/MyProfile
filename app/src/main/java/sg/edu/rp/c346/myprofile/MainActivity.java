@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
         etName = findViewById(R.id.editTextName);
         etGPA =  findViewById(R.id.editTextGPA);
         rgGender = findViewById(R.id.radioGroupGender);
+
+        //Add another line of codes
     }
 
     @Override
